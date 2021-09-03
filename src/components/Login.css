@@ -1,0 +1,18 @@
+#form-login {
+    width: 30%;
+    margin: auto;
+}
+
+form button {
+    width: 100%;
+}
+
+#container-login {
+    margin: 5rem auto auto auto;
+}
+
+@media only screen and (max-width: 700px) {
+    #form-login {
+      width: 80%;
+    }
+  }
